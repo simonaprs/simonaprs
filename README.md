@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @simonaprs!
-- 👀 I’m interested in all things Machine Learning and utilising Python to solve problems. I made this account to showcase my software engineering journey :)
+- 👀 I’m interested in all things AI. I made this account to store and showcase personal projects :)
 - 📫 You can reach me via LinkedIn on linkedin.com/in/simonaprs
 
 <!---
