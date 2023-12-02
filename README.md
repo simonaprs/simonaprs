@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @simonaprs!
-- 👀 I’m interested in all things AI. I made this account to store and showcase personal projects :)
+- 👀 I’m interested in Responsible AI & Inner DNN Interpretability.
 - 📫 You can reach me via LinkedIn on linkedin.com/in/simonaprs
 
 <!---
